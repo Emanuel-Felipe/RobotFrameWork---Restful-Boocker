@@ -40,13 +40,16 @@ O objetivo é validar operações de CRUD (Create, Read, Update, Delete) em rese
    Report: results/report.html
 ```
 ---
+
 ## 🧪 Testes Implementados
 
 [GET] Listar todas as reservas
 [POST] Criar nova reserva
 [PUT] Atualizar reserva existente
 [DELETE] Excluir reserva
+
 ---
+
 ## ✨ Autor
 
 Desenvolvido por Emanuel Felipe como prática de automação de testes com Robot Framework.
