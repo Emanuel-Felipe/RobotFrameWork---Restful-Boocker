@@ -25,10 +25,10 @@ O objetivo é validar operações de CRUD (Create, Read, Update, Delete) em rese
 ## ⚙️ Como Executar os Testes
 
 1. Clone este repositório:
-   ```
+```
    git clone https://github.com/SEU_USUARIO/robotframework-restful-booker.git
    cd robotframework-restful-booker/tests
-   ```
+```
 2. Execute os testes:
 
 ```
