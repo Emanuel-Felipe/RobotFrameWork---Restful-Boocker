@@ -32,21 +32,18 @@ O objetivo é validar operações de CRUD (Create, Read, Update, Delete) em rese
 2. Execute os testes:
 
 ```
-robot -d ../results booking_tests.robot
+   robot -d ../results booking_tests.robot
 ```
 3. Acesse os relatórios gerados:
 ```
-Log: results/log.html
-Report: results/report.html
+   Log: results/log.html
+   Report: results/report.html
 ```
 🧪 Testes Implementados
 
 [GET] Listar todas as reservas
-
 [POST] Criar nova reserva
-
 [PUT] Atualizar reserva existente
-
 [DELETE] Excluir reserva
 
 ✨ Autor
