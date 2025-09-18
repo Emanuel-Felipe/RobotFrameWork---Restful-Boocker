@@ -44,8 +44,11 @@ O objetivo é validar operações de CRUD (Create, Read, Update, Delete) em rese
 ## 🧪 Testes Implementados
 
 [GET] Listar todas as reservas
+
 [POST] Criar nova reserva
+
 [PUT] Atualizar reserva existente
+
 [DELETE] Excluir reserva
 
 ---
