@@ -51,6 +51,8 @@ O objetivo é validar operações de CRUD (Create, Read, Update, Delete) em rese
 
 [DELETE] Excluir reserva
 
+[DELETE] Excluir reserva inexistente
+
 ---
 
 ## ✨ Autor
